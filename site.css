@@ -1,0 +1,17 @@
+.jumbotron:after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: url(images/satellite.jpg) no-repeat center top;
+    opacity: .4;
+}
+
+.masthead {
+    padding: 70px 0 80px;
+    margin-bottom: 0;
+    color: #fff;
+}
