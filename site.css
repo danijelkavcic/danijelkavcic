@@ -11,7 +11,11 @@
 }
 
 .masthead {
-    padding: 70px 0 80px;
+    padding: 20px 0 50px;
     margin-bottom: 0;
+    /*color: #fff;*/
+}
+
+.navbar-inverse {
     color: #fff;
 }
