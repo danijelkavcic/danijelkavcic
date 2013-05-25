@@ -16,6 +16,85 @@
     /*color: #fff;*/
 }
 
+.hero-top{
+    position: absolute;
+    top:0;
+    background-color: transparent;
+}
+
+.hero-top .caption{
+    /*background-color: transparent;*/
+    background-color: rgba(127,127,127,0.5);
+    margin-top: 100px;
+    max-width: 550px;
+    padding: 10px 20px;
+    /*position: static;*/
+}
+
+.hero-top .caption h1, .hero-top .caption .lead {
+    color: #FFFFFF;
+    line-height: 1.25;
+    margin: 0;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+}
+
+
 .navbar-inverse {
     color: #fff;
+}
+
+.myc {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.carousel {
+    margin-bottom: 60px;
+}
+.carousel .container {
+    /*position: relative;*/
+    z-index: 9;
+
+        position: absolute;
+    top: 0;
+    left: 0;
+}
+.carousel-control {
+    background-color: transparent;
+    border: 0 none;
+    font-size: 120px;
+    height: 80px;
+    margin-top: 0;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+    z-index: 10;
+}
+.carousel .item {
+    /*height: 500px;*/
+    /*min-height: 800px;*/
+
+}
+.carousel img {
+    /*height: 500px;*/
+    left: 0;
+    min-width: 100%;
+    position: relative;
+    top: 0;
+}
+.carousel-caption {
+    /*background-color: transparent;*/
+    background-color: rgba(127,127,127,0.5);
+    margin-top: 200px;
+    max-width: 550px;
+    padding: 0 20px;
+    position: static;
+}
+.carousel-caption h1, .carousel-caption .lead {
+    color: #FFFFFF;
+    line-height: 1.25;
+    margin: 0;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+}
+.carousel-caption .btn {
+    margin-top: 10px;
 }
