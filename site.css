@@ -5,12 +5,10 @@
 }
 
 .hero-top .caption{
-    /*background-color: transparent;*/
     background-color: rgba(127,127,127,0.5);
     margin-top: 100px;
     max-width: 550px;
     padding: 10px 20px;
-    /*position: static;*/
 }
 
 .hero-top .caption h1, .hero-top .caption .lead {
