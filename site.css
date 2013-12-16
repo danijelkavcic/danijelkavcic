@@ -24,3 +24,39 @@
     bottom: auto;
     position: absolute;
 }
+
+.quicksand {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.montserrat{
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.hammersmith{
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+.megrim {
+    font-family: 'Megrim', cursive;
+}
+
+.textme {
+    font-family: 'Text Me One', sans-serif;    
+}
+
+.monkey {
+    font-family: 'Happy Monkey', cursive;    
+}
+
+.audiowide {
+    font-family: 'Audiowide', cursive;
+}
+
+.numans {
+    font-family: 'Numans', sans-serif;    
+}
+
+.stint {
+    font-family: 'Stint Ultra Expanded', cursive;    
+}
